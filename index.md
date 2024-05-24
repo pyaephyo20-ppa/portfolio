@@ -12,9 +12,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Work Experience
 
-## Prudential Myanmar Life Insurance	####Yangon, Myanmar
-## |Performance Marketing Specialist|	|Feb, 2024 – Present|
-## | head1        | head two          | three |
+## Prudential Myanmar Life Insurance	
+## Performance Marketing Specialist
+> Yangon, Myanmar
+> Feb, 2024 - Present
+
+*	Plan and execute performance marketing campaigns, including web, SEO/SEM, email, social media and display advertising 
+*	Build and maintain our social media presence 
+*	Measure and report performance of all performance marketing campaigns and plan action 
+*	Identify trends and insights, and optimize spending and performance based on the insights 
+*	Brainstorm new and creative growth strategies 
+*	Collaborate with agencies and other vendor partners
 
 
 ## Header 2
