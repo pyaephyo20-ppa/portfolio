@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Work Experience
 
-## |Prudential Myanmar Life Insurance|	Yangon, Myanmar|
+## Prudential Myanmar Life Insurance	####Yangon, Myanmar
 ## |Performance Marketing Specialist|	|Feb, 2024 – Present|
 ## | head1        | head two          | three |
 
