@@ -12,10 +12,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Work Experience
 
-## Prudential Myanmar Life Insurance	
 ## Performance Marketing Specialist
-> Yangon, Myanmar
+### Prudential Myanmar Life Insurance	
 > Feb, 2024 - Present
+>
+> Yangon, Myanmar
+
 
 *	Plan and execute performance marketing campaigns, including web, SEO/SEM, email, social media and display advertising 
 *	Build and maintain our social media presence 
@@ -23,6 +25,22 @@ There should be whitespace between paragraphs. We recommend including a README, 
 *	Identify trends and insights, and optimize spending and performance based on the insights 
 *	Brainstorm new and creative growth strategies 
 *	Collaborate with agencies and other vendor partners
+
+
+## Growth Marketing Manager
+### Better HR
+> Feb, 2023 – Jan, 2024
+>
+> Yangon, Myanmar
+
+*	Responsible for the growth marketing of Better HR Software and related products in APAC countries such as Myanmar, Sri Lanka, Cambodia, Vietnam, Singapore and Thailand
+*	Running performance marketing campaigns to drive the quality leads and trial 
+*	Content marketing to engage the clients and potential clients with the useful and up-to-date info
+*	Optimizing the website for better user experience & SEO friendly 
+*	Being in control of cost per for the paid tactics Re-marketing and developing the best multi-channel 
+
+<strong>KEY ACHIEVEMENT</strong> - Drove 500 qualified leads from APAC countries. Optimized website to get 100 SEO scores on Google Page Speed Insights. Launched Cambodia market. Achieved organic LinkedIn followers by 2.7k, page visits by 3.1k, website visitors by 45k, and engagement rate by 49.9%.
+
 
 
 ## Header 2
