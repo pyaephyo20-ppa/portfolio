@@ -58,8 +58,7 @@ Creative and data-driven Performance Marketing Specialist with over seven years 
 <strong>KEY ACHIEVEMENT</strong> - As the key person for all digital media execution and successfully established, and promoted the digital presence of international brands such as P&G brands from the sketch
 
 ## Digital Marketing Executive	
-### Mango Media	
-> Jun, 2017 – Dec, 2018
+### Mango Media | <span style="text-align: right;">Jun, 2017 – Dec, 2018</span>
 
 *	Developed campaign and communication strategy 
 *	Developed and executed media buying and planning for FMCG, Consumer Electronic and Nutrition Brands 
