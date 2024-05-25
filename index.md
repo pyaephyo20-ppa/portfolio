@@ -58,7 +58,8 @@ Creative and data-driven Performance Marketing Specialist with over seven years 
 <strong>KEY ACHIEVEMENT</strong> - As the key person for all digital media execution and successfully established, and promoted the digital presence of international brands such as P&G brands from the sketch
 
 ## Digital Marketing Executive	
-### Mango Media | <span style="text-align: right;">Jun, 2017 – Dec, 2018</span>
+### Mango Media 
+> Jun, 2017 – Dec, 2018
 
 *	Developed campaign and communication strategy 
 *	Developed and executed media buying and planning for FMCG, Consumer Electronic and Nutrition Brands 
@@ -69,116 +70,22 @@ Creative and data-driven Performance Marketing Specialist with over seven years 
 
 <strong>KEY ACHIEVEMENT</strong> - Progressively established digital presences of Abbot Brands in Myanmar. Amplified the awareness of Samsung Galaxy S8 and Note FE Launches on social media with the media partners and KOLs. Executed the media buying and planning of Tuborg Open 2018. 
 
-<header>
-  <h2>Test</h2> 
-  <p class="right-aligned">This text will be right-aligned.</p>
-</header>
+## Skills & Interests
+
+<strong>Analytics</strong>: Excel, Looker Studio, Power BI
+<strong>CRM</strong>: HubSpot, Click Up, Notion
+<strong>Design & Creative</strong>: Canva, Figma, Photoshop, Premiere Pro
+<strong>Media</strong>: Meta Ads Manager, Google Ads, LinkedIn Campaign Manager
+<strong>SEO</strong>: Screaming Frog, SEMrush, Moz, Google Tag Manager
+<strong>Website</strong>: WordPress, HTML, CSS
+
+## Education
+National Management Degree College	Yangon, Myanmar
+Bachelor of Business Management                                                    	         2012-2016
 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Certification
+*	Statistics for Marketing - Meta	Oct, 2023
+*	SEO – HubSpot Academy	May, 2023
+*	Social Media - HubSpot Academy	Oct, 2022
+*	Google Analytics 	Jul, 2022
