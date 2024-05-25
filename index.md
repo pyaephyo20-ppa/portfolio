@@ -72,16 +72,17 @@ Creative and data-driven Performance Marketing Specialist with over seven years 
 
 ## Skills & Interests
 
-<strong>Analytics</strong>: Excel, Looker Studio, Power BI
-<strong>CRM</strong>: HubSpot, Click Up, Notion
-<strong>Design & Creative</strong>: Canva, Figma, Photoshop, Premiere Pro
-<strong>Media</strong>: Meta Ads Manager, Google Ads, LinkedIn Campaign Manager
-<strong>SEO</strong>: Screaming Frog, SEMrush, Moz, Google Tag Manager
-<strong>Website</strong>: WordPress, HTML, CSS
+* <strong>Analytics</strong>: Excel, Looker Studio, Power BI
+* <strong>CRM</strong>: HubSpot, Click Up, Notion
+* <strong>Design & Creative</strong>: Canva, Figma, Photoshop, Premiere Pro
+* <strong>Media</strong>: Meta Ads Manager, Google Ads, LinkedIn Campaign Manager
+* <strong>SEO</strong>: Screaming Frog, SEMrush, Moz, Google Tag Manager
+* <strong>Website</strong>: WordPress, HTML, CSS
 
 ## Education
-National Management Degree College	Yangon, Myanmar
-Bachelor of Business Management                                                    	         2012-2016
+### Bachelor of Business Management   | 2012-2016
+#### National Management Degree College	| Yangon, Myanmar
+
 
 
 ## Certification
