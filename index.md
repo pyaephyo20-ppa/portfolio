@@ -2,13 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+Creative and data-driven Performance Marketing Specialist with over seven years of brand and agency side experience in developing marketing campaigns and strategies, effectively and efficiently executing media amplifications, lead and demand generation, and monitoring the performance of the campaigns. Certified marketer with excellent communication, willingness for the changes, and proactive altitude.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Work Experience
 
@@ -73,8 +70,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <strong>KEY ACHIEVEMENT</strong> - Progressively established digital presences of Abbot Brands in Myanmar. Amplified the awareness of Samsung Galaxy S8 and Note FE Launches on social media with the media partners and KOLs. Executed the media buying and planning of Tuborg Open 2018. 
 
-
-
+<header>
+  <h2>Test</h2> 
+  <p class="right-aligned">This text will be right-aligned.</p>
+</header>
 
 
 ## Header 2
